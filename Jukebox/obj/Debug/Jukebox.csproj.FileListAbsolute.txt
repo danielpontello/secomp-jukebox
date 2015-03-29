@@ -1,0 +1,43 @@
+c:\users\daniel\documents\visual studio 2013\Projects\Jukebox\Jukebox\bin\Debug\Jukebox.exe.config
+c:\Users\Daniel\Documents\Visual Studio 2013\Projects\Jukebox\Jukebox\bin\Debug\Jukebox.exe
+c:\Users\Daniel\Documents\Visual Studio 2013\Projects\Jukebox\Jukebox\bin\Debug\Jukebox.pdb
+c:\Users\Daniel\Documents\Visual Studio 2013\Projects\Jukebox\Jukebox\bin\Debug\Autofac.dll
+c:\Users\Daniel\Documents\Visual Studio 2013\Projects\Jukebox\Jukebox\bin\Debug\Microsoft.Threading.Tasks.dll
+c:\Users\Daniel\Documents\Visual Studio 2013\Projects\Jukebox\Jukebox\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+c:\Users\Daniel\Documents\Visual Studio 2013\Projects\Jukebox\Jukebox\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+c:\Users\Daniel\Documents\Visual Studio 2013\Projects\Jukebox\Jukebox\bin\Debug\Newtonsoft.Json.dll
+c:\Users\Daniel\Documents\Visual Studio 2013\Projects\Jukebox\Jukebox\bin\Debug\System.Net.Http.Extensions.dll
+c:\Users\Daniel\Documents\Visual Studio 2013\Projects\Jukebox\Jukebox\bin\Debug\System.Net.Http.Primitives.dll
+c:\Users\Daniel\Documents\Visual Studio 2013\Projects\Jukebox\Jukebox\bin\Debug\Tweetinvi.Controllers.dll
+c:\Users\Daniel\Documents\Visual Studio 2013\Projects\Jukebox\Jukebox\bin\Debug\Tweetinvi.Core.dll
+c:\Users\Daniel\Documents\Visual Studio 2013\Projects\Jukebox\Jukebox\bin\Debug\Tweetinvi.Credentials.dll
+c:\Users\Daniel\Documents\Visual Studio 2013\Projects\Jukebox\Jukebox\bin\Debug\Tweetinvi.dll
+c:\Users\Daniel\Documents\Visual Studio 2013\Projects\Jukebox\Jukebox\bin\Debug\Tweetinvi.Factories.dll
+c:\Users\Daniel\Documents\Visual Studio 2013\Projects\Jukebox\Jukebox\bin\Debug\Tweetinvi.Logic.dll
+c:\Users\Daniel\Documents\Visual Studio 2013\Projects\Jukebox\Jukebox\bin\Debug\Tweetinvi.Security.dll
+c:\Users\Daniel\Documents\Visual Studio 2013\Projects\Jukebox\Jukebox\bin\Debug\Tweetinvi.Streams.dll
+c:\Users\Daniel\Documents\Visual Studio 2013\Projects\Jukebox\Jukebox\bin\Debug\Tweetinvi.WebLogic.dll
+c:\Users\Daniel\Documents\Visual Studio 2013\Projects\Jukebox\Jukebox\bin\Debug\Autofac.xml
+c:\Users\Daniel\Documents\Visual Studio 2013\Projects\Jukebox\Jukebox\bin\Debug\Microsoft.Threading.Tasks.xml
+c:\Users\Daniel\Documents\Visual Studio 2013\Projects\Jukebox\Jukebox\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+c:\Users\Daniel\Documents\Visual Studio 2013\Projects\Jukebox\Jukebox\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+c:\Users\Daniel\Documents\Visual Studio 2013\Projects\Jukebox\Jukebox\bin\Debug\Newtonsoft.Json.xml
+c:\Users\Daniel\Documents\Visual Studio 2013\Projects\Jukebox\Jukebox\bin\Debug\System.Net.Http.Extensions.xml
+c:\Users\Daniel\Documents\Visual Studio 2013\Projects\Jukebox\Jukebox\bin\Debug\System.Net.Http.Primitives.xml
+c:\Users\Daniel\Documents\Visual Studio 2013\Projects\Jukebox\Jukebox\obj\Debug\Jukebox.csproj.App.config
+c:\Users\Daniel\Documents\Visual Studio 2013\Projects\Jukebox\Jukebox\obj\Debug\Jukebox.csprojResolveAssemblyReference.cache
+c:\Users\Daniel\Documents\Visual Studio 2013\Projects\Jukebox\Jukebox\obj\Debug\MainWindow.baml
+c:\Users\Daniel\Documents\Visual Studio 2013\Projects\Jukebox\Jukebox\obj\Debug\MainWindow.g.cs
+c:\Users\Daniel\Documents\Visual Studio 2013\Projects\Jukebox\Jukebox\obj\Debug\App.g.cs
+c:\Users\Daniel\Documents\Visual Studio 2013\Projects\Jukebox\Jukebox\obj\Debug\Jukebox_MarkupCompile.cache
+c:\Users\Daniel\Documents\Visual Studio 2013\Projects\Jukebox\Jukebox\obj\Debug\Jukebox.g.resources
+c:\Users\Daniel\Documents\Visual Studio 2013\Projects\Jukebox\Jukebox\obj\Debug\Jukebox.Properties.Resources.resources
+c:\Users\Daniel\Documents\Visual Studio 2013\Projects\Jukebox\Jukebox\obj\Debug\Jukebox.csproj.GenerateResource.Cache
+c:\Users\Daniel\Documents\Visual Studio 2013\Projects\Jukebox\Jukebox\obj\Debug\Jukebox.exe
+c:\Users\Daniel\Documents\Visual Studio 2013\Projects\Jukebox\Jukebox\obj\Debug\Jukebox.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Jukebox\Jukebox\bin\Debug\SpotifyAPI.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Jukebox\Jukebox\bin\Debug\SpotifyAPI.xml
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Jukebox\Jukebox\bin\Debug\Resources\TrackList.txt
+C:\Users\Daniel\Documents\GitHub\secomp-jukebox\Jukebox\bin\Debug\Jukebox.exe.config
+C:\Users\Daniel\Documents\GitHub\secomp-jukebox\Jukebox\obj\Debug\Jukebox.exe
+C:\Users\Daniel\Documents\GitHub\secomp-jukebox\Jukebox\obj\Debug\Jukebox.pdb

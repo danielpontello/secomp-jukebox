@@ -1,0 +1,158 @@
+C:\Users\Daniel\documents\visual studio 2013\Projects\Jukebox\Jukebox\bin\Release\Resources\TrackList.txt
+C:\Users\Daniel\documents\visual studio 2013\Projects\Jukebox\Jukebox\bin\Release\Jukebox.exe.config
+C:\Users\Daniel\documents\visual studio 2013\Projects\Jukebox\Jukebox\bin\Release\Jukebox.exe
+C:\Users\Daniel\documents\visual studio 2013\Projects\Jukebox\Jukebox\bin\Release\Jukebox.pdb
+C:\Users\Daniel\documents\visual studio 2013\Projects\Jukebox\Jukebox\bin\Release\Autofac.dll
+C:\Users\Daniel\documents\visual studio 2013\Projects\Jukebox\Jukebox\bin\Release\Microsoft.Threading.Tasks.dll
+C:\Users\Daniel\documents\visual studio 2013\Projects\Jukebox\Jukebox\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Daniel\documents\visual studio 2013\Projects\Jukebox\Jukebox\bin\Release\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Daniel\documents\visual studio 2013\Projects\Jukebox\Jukebox\bin\Release\Newtonsoft.Json.dll
+C:\Users\Daniel\documents\visual studio 2013\Projects\Jukebox\Jukebox\bin\Release\SpotifyAPI.dll
+C:\Users\Daniel\documents\visual studio 2013\Projects\Jukebox\Jukebox\bin\Release\System.Net.Http.Extensions.dll
+C:\Users\Daniel\documents\visual studio 2013\Projects\Jukebox\Jukebox\bin\Release\System.Net.Http.Primitives.dll
+C:\Users\Daniel\documents\visual studio 2013\Projects\Jukebox\Jukebox\bin\Release\Tweetinvi.Controllers.dll
+C:\Users\Daniel\documents\visual studio 2013\Projects\Jukebox\Jukebox\bin\Release\Tweetinvi.Core.dll
+C:\Users\Daniel\documents\visual studio 2013\Projects\Jukebox\Jukebox\bin\Release\Tweetinvi.Credentials.dll
+C:\Users\Daniel\documents\visual studio 2013\Projects\Jukebox\Jukebox\bin\Release\Tweetinvi.dll
+C:\Users\Daniel\documents\visual studio 2013\Projects\Jukebox\Jukebox\bin\Release\Tweetinvi.Factories.dll
+C:\Users\Daniel\documents\visual studio 2013\Projects\Jukebox\Jukebox\bin\Release\Tweetinvi.Logic.dll
+C:\Users\Daniel\documents\visual studio 2013\Projects\Jukebox\Jukebox\bin\Release\Tweetinvi.Security.dll
+C:\Users\Daniel\documents\visual studio 2013\Projects\Jukebox\Jukebox\bin\Release\Tweetinvi.Streams.dll
+C:\Users\Daniel\documents\visual studio 2013\Projects\Jukebox\Jukebox\bin\Release\Tweetinvi.WebLogic.dll
+C:\Users\Daniel\documents\visual studio 2013\Projects\Jukebox\Jukebox\bin\Release\Autofac.xml
+C:\Users\Daniel\documents\visual studio 2013\Projects\Jukebox\Jukebox\bin\Release\Microsoft.Threading.Tasks.xml
+C:\Users\Daniel\documents\visual studio 2013\Projects\Jukebox\Jukebox\bin\Release\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Daniel\documents\visual studio 2013\Projects\Jukebox\Jukebox\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Daniel\documents\visual studio 2013\Projects\Jukebox\Jukebox\bin\Release\Newtonsoft.Json.xml
+C:\Users\Daniel\documents\visual studio 2013\Projects\Jukebox\Jukebox\bin\Release\SpotifyAPI.xml
+C:\Users\Daniel\documents\visual studio 2013\Projects\Jukebox\Jukebox\bin\Release\System.Net.Http.Extensions.xml
+C:\Users\Daniel\documents\visual studio 2013\Projects\Jukebox\Jukebox\bin\Release\System.Net.Http.Primitives.xml
+C:\Users\Daniel\documents\visual studio 2013\Projects\Jukebox\Jukebox\obj\Release\Jukebox.csproj.App.config
+C:\Users\Daniel\documents\visual studio 2013\Projects\Jukebox\Jukebox\obj\Release\MainWindow.baml
+C:\Users\Daniel\documents\visual studio 2013\Projects\Jukebox\Jukebox\obj\Release\MainWindow.g.cs
+C:\Users\Daniel\documents\visual studio 2013\Projects\Jukebox\Jukebox\obj\Release\App.g.cs
+C:\Users\Daniel\documents\visual studio 2013\Projects\Jukebox\Jukebox\obj\Release\Jukebox_MarkupCompile.cache
+C:\Users\Daniel\documents\visual studio 2013\Projects\Jukebox\Jukebox\obj\Release\Jukebox.g.resources
+C:\Users\Daniel\documents\visual studio 2013\Projects\Jukebox\Jukebox\obj\Release\Jukebox.Properties.Resources.resources
+C:\Users\Daniel\documents\visual studio 2013\Projects\Jukebox\Jukebox\obj\Release\Jukebox.csproj.GenerateResource.Cache
+C:\Users\Daniel\documents\visual studio 2013\Projects\Jukebox\Jukebox\obj\Release\Jukebox.exe
+C:\Users\Daniel\documents\visual studio 2013\Projects\Jukebox\Jukebox\obj\Release\Jukebox.pdb
+C:\Users\Daniel\Desktop\Jukebox\Jukebox\bin\Release\Resources\TrackList.txt
+C:\Users\Daniel\Desktop\Jukebox\Jukebox\bin\Release\Jukebox.exe.config
+C:\Users\Daniel\Desktop\Jukebox\Jukebox\bin\Release\Jukebox.exe
+C:\Users\Daniel\Desktop\Jukebox\Jukebox\bin\Release\Jukebox.pdb
+C:\Users\Daniel\Desktop\Jukebox\Jukebox\bin\Release\Autofac.dll
+C:\Users\Daniel\Desktop\Jukebox\Jukebox\bin\Release\Microsoft.Threading.Tasks.dll
+C:\Users\Daniel\Desktop\Jukebox\Jukebox\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Daniel\Desktop\Jukebox\Jukebox\bin\Release\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Daniel\Desktop\Jukebox\Jukebox\bin\Release\Newtonsoft.Json.dll
+C:\Users\Daniel\Desktop\Jukebox\Jukebox\bin\Release\SpotifyAPI.dll
+C:\Users\Daniel\Desktop\Jukebox\Jukebox\bin\Release\System.Net.Http.Extensions.dll
+C:\Users\Daniel\Desktop\Jukebox\Jukebox\bin\Release\System.Net.Http.Primitives.dll
+C:\Users\Daniel\Desktop\Jukebox\Jukebox\bin\Release\Tweetinvi.Controllers.dll
+C:\Users\Daniel\Desktop\Jukebox\Jukebox\bin\Release\Tweetinvi.Core.dll
+C:\Users\Daniel\Desktop\Jukebox\Jukebox\bin\Release\Tweetinvi.Credentials.dll
+C:\Users\Daniel\Desktop\Jukebox\Jukebox\bin\Release\Tweetinvi.dll
+C:\Users\Daniel\Desktop\Jukebox\Jukebox\bin\Release\Tweetinvi.Factories.dll
+C:\Users\Daniel\Desktop\Jukebox\Jukebox\bin\Release\Tweetinvi.Logic.dll
+C:\Users\Daniel\Desktop\Jukebox\Jukebox\bin\Release\Tweetinvi.Security.dll
+C:\Users\Daniel\Desktop\Jukebox\Jukebox\bin\Release\Tweetinvi.Streams.dll
+C:\Users\Daniel\Desktop\Jukebox\Jukebox\bin\Release\Tweetinvi.WebLogic.dll
+C:\Users\Daniel\Desktop\Jukebox\Jukebox\bin\Release\Autofac.xml
+C:\Users\Daniel\Desktop\Jukebox\Jukebox\bin\Release\Microsoft.Threading.Tasks.xml
+C:\Users\Daniel\Desktop\Jukebox\Jukebox\bin\Release\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Daniel\Desktop\Jukebox\Jukebox\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Daniel\Desktop\Jukebox\Jukebox\bin\Release\Newtonsoft.Json.xml
+C:\Users\Daniel\Desktop\Jukebox\Jukebox\bin\Release\SpotifyAPI.xml
+C:\Users\Daniel\Desktop\Jukebox\Jukebox\bin\Release\System.Net.Http.Extensions.xml
+C:\Users\Daniel\Desktop\Jukebox\Jukebox\bin\Release\System.Net.Http.Primitives.xml
+C:\Users\Daniel\Desktop\Jukebox\Jukebox\obj\Release\Jukebox.csproj.App.config
+C:\Users\Daniel\Desktop\Jukebox\Jukebox\obj\Release\MainWindow.baml
+C:\Users\Daniel\Desktop\Jukebox\Jukebox\obj\Release\MainWindow.g.cs
+C:\Users\Daniel\Desktop\Jukebox\Jukebox\obj\Release\App.g.cs
+C:\Users\Daniel\Desktop\Jukebox\Jukebox\obj\Release\Jukebox_MarkupCompile.cache
+C:\Users\Daniel\Desktop\Jukebox\Jukebox\obj\Release\Jukebox.g.resources
+C:\Users\Daniel\Desktop\Jukebox\Jukebox\obj\Release\Jukebox.Properties.Resources.resources
+C:\Users\Daniel\Desktop\Jukebox\Jukebox\obj\Release\Jukebox.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\Jukebox\Jukebox\obj\Release\Jukebox.exe
+C:\Users\Daniel\Desktop\Jukebox\Jukebox\obj\Release\Jukebox.pdb
+C:\Users\Daniel\Desktop\Jukebox-Antibot\Jukebox\bin\Release\Resources\TrackList.txt
+C:\Users\Daniel\Desktop\Jukebox-Antibot\Jukebox\bin\Release\Jukebox.exe.config
+C:\Users\Daniel\Desktop\Jukebox-Antibot\Jukebox\bin\Release\Jukebox.exe
+C:\Users\Daniel\Desktop\Jukebox-Antibot\Jukebox\bin\Release\Jukebox.pdb
+C:\Users\Daniel\Desktop\Jukebox-Antibot\Jukebox\bin\Release\Autofac.dll
+C:\Users\Daniel\Desktop\Jukebox-Antibot\Jukebox\bin\Release\Microsoft.Threading.Tasks.dll
+C:\Users\Daniel\Desktop\Jukebox-Antibot\Jukebox\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Daniel\Desktop\Jukebox-Antibot\Jukebox\bin\Release\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Daniel\Desktop\Jukebox-Antibot\Jukebox\bin\Release\Newtonsoft.Json.dll
+C:\Users\Daniel\Desktop\Jukebox-Antibot\Jukebox\bin\Release\SpotifyAPI.dll
+C:\Users\Daniel\Desktop\Jukebox-Antibot\Jukebox\bin\Release\System.Net.Http.Extensions.dll
+C:\Users\Daniel\Desktop\Jukebox-Antibot\Jukebox\bin\Release\System.Net.Http.Primitives.dll
+C:\Users\Daniel\Desktop\Jukebox-Antibot\Jukebox\bin\Release\Tweetinvi.Controllers.dll
+C:\Users\Daniel\Desktop\Jukebox-Antibot\Jukebox\bin\Release\Tweetinvi.Core.dll
+C:\Users\Daniel\Desktop\Jukebox-Antibot\Jukebox\bin\Release\Tweetinvi.Credentials.dll
+C:\Users\Daniel\Desktop\Jukebox-Antibot\Jukebox\bin\Release\Tweetinvi.dll
+C:\Users\Daniel\Desktop\Jukebox-Antibot\Jukebox\bin\Release\Tweetinvi.Factories.dll
+C:\Users\Daniel\Desktop\Jukebox-Antibot\Jukebox\bin\Release\Tweetinvi.Logic.dll
+C:\Users\Daniel\Desktop\Jukebox-Antibot\Jukebox\bin\Release\Tweetinvi.Security.dll
+C:\Users\Daniel\Desktop\Jukebox-Antibot\Jukebox\bin\Release\Tweetinvi.Streams.dll
+C:\Users\Daniel\Desktop\Jukebox-Antibot\Jukebox\bin\Release\Tweetinvi.WebLogic.dll
+C:\Users\Daniel\Desktop\Jukebox-Antibot\Jukebox\bin\Release\Autofac.xml
+C:\Users\Daniel\Desktop\Jukebox-Antibot\Jukebox\bin\Release\Microsoft.Threading.Tasks.xml
+C:\Users\Daniel\Desktop\Jukebox-Antibot\Jukebox\bin\Release\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Daniel\Desktop\Jukebox-Antibot\Jukebox\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Daniel\Desktop\Jukebox-Antibot\Jukebox\bin\Release\Newtonsoft.Json.xml
+C:\Users\Daniel\Desktop\Jukebox-Antibot\Jukebox\bin\Release\SpotifyAPI.xml
+C:\Users\Daniel\Desktop\Jukebox-Antibot\Jukebox\bin\Release\System.Net.Http.Extensions.xml
+C:\Users\Daniel\Desktop\Jukebox-Antibot\Jukebox\bin\Release\System.Net.Http.Primitives.xml
+C:\Users\Daniel\Desktop\Jukebox-Antibot\Jukebox\obj\Release\Jukebox.csproj.App.config
+C:\Users\Daniel\Desktop\Jukebox-Antibot\Jukebox\obj\Release\Jukebox.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Jukebox-Antibot\Jukebox\obj\Release\MainWindow.baml
+C:\Users\Daniel\Desktop\Jukebox-Antibot\Jukebox\obj\Release\MainWindow.g.cs
+C:\Users\Daniel\Desktop\Jukebox-Antibot\Jukebox\obj\Release\App.g.cs
+C:\Users\Daniel\Desktop\Jukebox-Antibot\Jukebox\obj\Release\Jukebox_MarkupCompile.cache
+C:\Users\Daniel\Desktop\Jukebox-Antibot\Jukebox\obj\Release\Jukebox.g.resources
+C:\Users\Daniel\Desktop\Jukebox-Antibot\Jukebox\obj\Release\Jukebox.Properties.Resources.resources
+C:\Users\Daniel\Desktop\Jukebox-Antibot\Jukebox\obj\Release\Jukebox.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\Jukebox-Antibot\Jukebox\obj\Release\Jukebox.exe
+C:\Users\Daniel\Desktop\Jukebox-Antibot\Jukebox\obj\Release\Jukebox.pdb
+C:\Users\Daniel\Desktop\Jukebox-Antibot - Copia\Jukebox\bin\Release\Jukebox.exe.config
+C:\Users\Daniel\Desktop\Jukebox-Antibot - Copia\Jukebox\obj\Release\Jukebox.exe
+C:\Users\Daniel\Desktop\Jukebox-Antibot - Copia\Jukebox\obj\Release\Jukebox.pdb
+C:\Users\Daniel\Desktop\Jukebox-Antibot - Copia\Jukebox\bin\Release\Resources\TrackList.txt
+C:\Users\Daniel\Desktop\Jukebox-Antibot - Copia\Jukebox\bin\Release\Jukebox.exe
+C:\Users\Daniel\Desktop\Jukebox-Antibot - Copia\Jukebox\bin\Release\Jukebox.pdb
+C:\Users\Daniel\Desktop\Jukebox-Antibot - Copia\Jukebox\bin\Release\Autofac.dll
+C:\Users\Daniel\Desktop\Jukebox-Antibot - Copia\Jukebox\bin\Release\Microsoft.Threading.Tasks.dll
+C:\Users\Daniel\Desktop\Jukebox-Antibot - Copia\Jukebox\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Daniel\Desktop\Jukebox-Antibot - Copia\Jukebox\bin\Release\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Daniel\Desktop\Jukebox-Antibot - Copia\Jukebox\bin\Release\Newtonsoft.Json.dll
+C:\Users\Daniel\Desktop\Jukebox-Antibot - Copia\Jukebox\bin\Release\SpotifyAPI.dll
+C:\Users\Daniel\Desktop\Jukebox-Antibot - Copia\Jukebox\bin\Release\System.Net.Http.Extensions.dll
+C:\Users\Daniel\Desktop\Jukebox-Antibot - Copia\Jukebox\bin\Release\System.Net.Http.Primitives.dll
+C:\Users\Daniel\Desktop\Jukebox-Antibot - Copia\Jukebox\bin\Release\Tweetinvi.Controllers.dll
+C:\Users\Daniel\Desktop\Jukebox-Antibot - Copia\Jukebox\bin\Release\Tweetinvi.Core.dll
+C:\Users\Daniel\Desktop\Jukebox-Antibot - Copia\Jukebox\bin\Release\Tweetinvi.Credentials.dll
+C:\Users\Daniel\Desktop\Jukebox-Antibot - Copia\Jukebox\bin\Release\Tweetinvi.dll
+C:\Users\Daniel\Desktop\Jukebox-Antibot - Copia\Jukebox\bin\Release\Tweetinvi.Factories.dll
+C:\Users\Daniel\Desktop\Jukebox-Antibot - Copia\Jukebox\bin\Release\Tweetinvi.Logic.dll
+C:\Users\Daniel\Desktop\Jukebox-Antibot - Copia\Jukebox\bin\Release\Tweetinvi.Security.dll
+C:\Users\Daniel\Desktop\Jukebox-Antibot - Copia\Jukebox\bin\Release\Tweetinvi.Streams.dll
+C:\Users\Daniel\Desktop\Jukebox-Antibot - Copia\Jukebox\bin\Release\Tweetinvi.WebLogic.dll
+C:\Users\Daniel\Desktop\Jukebox-Antibot - Copia\Jukebox\bin\Release\Autofac.xml
+C:\Users\Daniel\Desktop\Jukebox-Antibot - Copia\Jukebox\bin\Release\Microsoft.Threading.Tasks.xml
+C:\Users\Daniel\Desktop\Jukebox-Antibot - Copia\Jukebox\bin\Release\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Daniel\Desktop\Jukebox-Antibot - Copia\Jukebox\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Daniel\Desktop\Jukebox-Antibot - Copia\Jukebox\bin\Release\Newtonsoft.Json.xml
+C:\Users\Daniel\Desktop\Jukebox-Antibot - Copia\Jukebox\bin\Release\SpotifyAPI.xml
+C:\Users\Daniel\Desktop\Jukebox-Antibot - Copia\Jukebox\bin\Release\System.Net.Http.Extensions.xml
+C:\Users\Daniel\Desktop\Jukebox-Antibot - Copia\Jukebox\bin\Release\System.Net.Http.Primitives.xml
+C:\Users\Daniel\Desktop\Jukebox-Antibot - Copia\Jukebox\obj\Release\Jukebox.csproj.App.config
+C:\Users\Daniel\Desktop\Jukebox-Antibot - Copia\Jukebox\obj\Release\Jukebox.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Jukebox-Antibot - Copia\Jukebox\obj\Release\MainWindow.baml
+C:\Users\Daniel\Desktop\Jukebox-Antibot - Copia\Jukebox\obj\Release\MainWindow.g.cs
+C:\Users\Daniel\Desktop\Jukebox-Antibot - Copia\Jukebox\obj\Release\App.g.cs
+C:\Users\Daniel\Desktop\Jukebox-Antibot - Copia\Jukebox\obj\Release\Jukebox_MarkupCompile.cache
+C:\Users\Daniel\Desktop\Jukebox-Antibot - Copia\Jukebox\obj\Release\Jukebox.g.resources
+C:\Users\Daniel\Desktop\Jukebox-Antibot - Copia\Jukebox\obj\Release\Jukebox.Properties.Resources.resources
+C:\Users\Daniel\Desktop\Jukebox-Antibot - Copia\Jukebox\obj\Release\Jukebox.csproj.GenerateResource.Cache
