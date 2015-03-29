@@ -2,7 +2,7 @@
 
 Jukebox colaborativa desenvolvida para a 8ª Semana da Computação do Inatel. 5 músicas aleatorias são sorteadas para votação, e a mais votada é a próxima a ser tocada. Para votar em uma música, envie um tweet contendo "#JukeboxInatel <número da música>". Os tweets aparecem ao vivo no ticker na parte de baixo da tela.
 
-Este código está sendo lançado exatamente do jeito em que foi criado, ou seja, não nos responsabilizamos caso ele apague seu HD, mate seu gato ou comece a Terceira Guerra Mundial :)
+Este código está sendo lançado exatamente do jeito em que foi criado, ou seja, não nos responsabilizamos caso ele apague seu HD, mate seu gato ou comece a Terceira Guerra Mundial :D
 
 ![Screenshot](http://i.imgur.com/FTvUcqG.png "Screenshot")
 
